@@ -26,3 +26,4 @@ python3 convert_tf_model.py --model_type "type of the trained model" --model_pat
 
 ## Useful resources
 [Official documentation of the Tensorflow Lite](https://www.tensorflow.org/lite/guide/get_started) 
+[Blog post with explanation of examples](https://medium.com/@lusinlu/mobile-inference-b943dc99e29b)
