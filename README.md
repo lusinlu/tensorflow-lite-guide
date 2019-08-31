@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Running quantization aware training
-Scripts contains training/exporting/testing of the dummy model for the image-to-image transformation
+Script contains training/exporting/testing of the dummy model for the image-to-image transformation
 
 ```
 python3 quantization_aware_training.py
