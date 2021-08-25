@@ -1,5 +1,5 @@
 imageio>=2.5.0
 numpy
-tensorflow_gpu==1.15.2
+tensorflow_gpu==2.5.1
 Pillow>=6.1.0
 
